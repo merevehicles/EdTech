@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Mere Vehicles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Dec 2018 18:03:08 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 22 Dec 2018 19:15:20 -0600</lastBuildDate>
     
 	<atom:link href="https://merevehicles.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Richard Clark</title>
+      <link>https://merevehicles.com/posts/richard-clark/</link>
+      <pubDate>Sat, 22 Dec 2018 19:15:20 -0600</pubDate>
+      
+      <guid>https://merevehicles.com/posts/richard-clark/</guid>
+      <description>&amp;ldquo;[&amp;hellip;] media are mere vehicles that deliver instruction but do not influence student achievement any more than the truck that delivers our groceries causes changes in our nutrition&amp;rdquo;” (Clark 83: 445) or more subtly that “ there is strong evidence that many very different media attributes accomplish the same learning goal” and therefore: “ It there is no single media attribute that serves a unique cognitive effect for some learning task, then the attributes must be proxies for some other variables that are instrumental in learning gains” (Clark 1994:22).</description>
+    </item>
     
     <item>
       <title>The Thirteenth Tale</title>
@@ -18,15 +27,6 @@
       
       <guid>https://merevehicles.com/posts/page-two/</guid>
       <description>How long did I sit on the stairs after reading the letter? I don&amp;rsquo;t know. For I was spellbound. There is something about words. In expert hands, manipulated deftly, they take you prisoner. Wind themselves around your limbs like spider silk, and when you are so enthralled you cannot move, they pierce your skin, enter your blood, numb your thoughts. Inside you they work their magic. When I at last woke up to myself, I could only guess what had been going on in the darkness of my unconsciousness.</description>
-    </item>
-    
-    <item>
-      <title>First Page</title>
-      <link>https://merevehicles.com/posts/sample-page/</link>
-      <pubDate>Sat, 22 Dec 2018 17:12:48 -0600</pubDate>
-      
-      <guid>https://merevehicles.com/posts/sample-page/</guid>
-      <description>It was November. Although it was not yet late, the sky was dark when I turned into Laundress Passage. Father had finished for the day, switched off the shop lights and closed the shutters; but so I would not come home to darkness he had left on the light over the stairs to the flat. Through the glass in the door it cast a foolscap rectangle of paleness onto the wet pavement, and it was while I was standing in that rectangle, about to turn my key in the door, that I first saw the letter.</description>
     </item>
     
   </channel>

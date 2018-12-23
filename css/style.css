@@ -40,6 +40,7 @@ body {
   z-index: -10000;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: subpixel-antialiased;
+  /*border-top: 5.5px solid rgb(0, 0, 0);*/
 }
 h1, h2, h3, h4, h5, h6 {
   margin-top: 1.25em;
@@ -207,6 +208,7 @@ pre, code {
   width: 700px;
   margin-left: auto;
   margin-right: auto;
+  /*border-bottom: 1px dashed rgb(232, 232, 232);*/
 }
 @media (max-width: 767px) {
   .main {
@@ -236,13 +238,16 @@ pre, code {
 /* Post
 ------------------------------ */
 .post-meta {
-  margin-top: 15px;
-  padding-top:20px;
-  color: #232323e8;
-  font-size: 20px;
+  margin-top: 5px;
+  font-family:Helvetica, Sans-Serif;
+  /*padding-top:20px;
+  color: #232323e8;*/
+  font-size: 15px;
+  font-weight:100;
+  font-style: italic;
   letter-spacing: 1.5px;
-  border-top: 1px solid gray;
-  /*background-color: yellow;
+  /*border-top: 1px solid gray;
+  background-color: yellow;
   padding: 0 6px 0 6px;*/
   max-width: fit-content;
 }
@@ -418,11 +423,11 @@ pre, code {
   border-radius: 3px;
 }
 .post-content blockquote {
-  margin: 0 0 0 -23px;
-  padding: 0 0 0 20px;
-  color: rgba(0, 0, 0, .6);
+  margin: 0 0 0 50px;
+  padding: 0 0 0 15px;
+  color: rgba(0, 0, 0, .8);
   font-style: italic;
-  border-left: 3px solid rgba(0, 0, 0, .8);
+  border-left: 2px solid rgba(0, 0, 0, .5);
 }
 .post-content hr {
   margin-top: 70px;
