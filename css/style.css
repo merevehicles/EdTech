@@ -284,8 +284,8 @@ pre, code {
 /* Post entry */
 .post-entry {
   position: relative;
-  padding: 30px;
-  background: #fff;
+  padding: 10px 30px 20px 30px;
+  background: #f9f3e9;
   border-radius: 6px;
 }
 .post-entry:active {
@@ -493,7 +493,8 @@ pre, code {
   font-size: 18px;
   line-height: 25px;
   text-align: center;
-  background-color: #dac9b9;
+  background-color: #fff;
+  border-top: 1px solid #efefef;
 }
 .footer span {
   margin-left: 2px;
