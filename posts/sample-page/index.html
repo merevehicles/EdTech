@@ -29,8 +29,7 @@
     
     <p class="title"><a href="https://merevehicles.com/">Mere Vehicles</a></p>
     
-    <button class="menu-toggle" type="button"></button>
-    <nav class="menu">
+    
       <ul>
         
         
@@ -116,10 +115,13 @@
 </article>
 </main>
 <footer class="footer">
-  <span>&copy; 2018 <span>&middot;</span> Mere Vehicles</span>
+  <span>&copy; 2018 <span>&middot;</span> <button onclick="topFunction()" title="Go to top">Mere Vehicles</button> </span>
   <span>&middot;</span>
-  <span><a href="https://merevehicles.com/" rel="noopener" target="_blank">Twitter</a></span>
+  <span><a href="https://twitter.com/merevehicles" rel="noopener" target="_blank">Twitter</a></span>
   <span>&middot;</span>
+    <span><a href="mailto:hello@merevehicles.com" rel="noopener" target="_blank">Contact</a></span>
+
+
 
 </footer>
 <script src="https://merevehicles.com/js/instantclick.min.js" data-no-instant></script>
@@ -131,11 +133,15 @@
     addMenuListener();
   });
   function addMenuListener() {
-    var $toggle = document.querySelector('.menu-toggle');
+    
     var $body = document.querySelector('body');
     $toggle.addEventListener('click', function() {
       $body.classList.toggle('noscroll');
     }, false);
+  }
+  function topFunction() {
+    document.body.scrollTop = 0; 
+    document.documentElement.scrollTop = 0; 
   }
 </script>
 </body>
