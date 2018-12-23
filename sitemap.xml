@@ -3,12 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://merevehicles.com/posts/page-two/</loc>
+    <lastmod>2018-12-22T18:03:08-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merevehicles.com/posts/sample-page/</loc>
+    <lastmod>2018-12-22T17:12:48-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://merevehicles.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://merevehicles.com/</loc>
+    <lastmod>2018-12-22T18:03:08-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://merevehicles.com/posts/</loc>
+    <lastmod>2018-12-22T18:03:08-06:00</lastmod>
     <priority>0</priority>
   </url>
   
