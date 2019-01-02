@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pharetra on Mere Vehicles</title>
+    <link>https://merevehicles.com/tags/pharetra/</link>
+    <description>Recent content in Pharetra on Mere Vehicles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Dec 2018 15:55:50 -0600</lastBuildDate>
+    
+	<atom:link href="https://merevehicles.com/tags/pharetra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://merevehicles.com/posts/my-first-post/</link>
+      <pubDate>Sat, 22 Dec 2018 15:55:50 -0600</pubDate>
+      
+      <guid>https://merevehicles.com/posts/my-first-post/</guid>
+      <description>In pulvinar orci quis convallis tincidunt. Nunc suscipit est ut massa rutrum rhoncus. Ut turpis lacus, sagittis ut convallis et, aliquam et leo. Ut ac sapien id est pulvinar laoreet. Sed porttitor turpis nunc, et accumsan lorem scelerisque at. Mauris ornare nulla eu tellus fermentum porttitor. Curabitur nisi nunc, sollicitudin sed tristique id, placerat porta augue. Etiam sed eleifend erat.
+ Pellentesque eros ante, faucibus vitae accumsan non, tincidunt sollicitudin sem.</description>
+    </item>
+    
+  </channel>
+</rss>

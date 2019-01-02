@@ -470,11 +470,21 @@ pre, code {
   margin-left: 15px;
   margin-right: -15px;
   padding: 10px;
-  border-top: 10px solid #49a0ff;
-  word-break: break-word;	
-/*  text-align: justify;
-  hyphens: auto;*/
+  border-top: 6px solid #7bbbffe0;
+  word-break: break-word;
+/*  border-top-left-radius: 24px;*/
+  border-top-right-radius: 48px;
 }
+
+@media (max-width: 400px) {
+  .post-content .side-note  {
+    width: 100%;
+    margin-left: 15px;
+    margin-right: -5px;
+    margin-bottom: 25px;
+	} 
+}
+
 .post-view .post-tags {
   margin-bottom: 30px;
 }
