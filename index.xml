@@ -1,33 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mere Vehicles</title>
     <link>https://merevehicles.com/</link>
     <description>Recent content on Mere Vehicles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Dec 2018 19:15:20 -0600</lastBuildDate>
     
         <atom:link href="https://merevehicles.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Richard Clark</title>
-      <link>https://merevehicles.com/posts/richard-clark/</link>
-      <pubDate>Sat, 22 Dec 2018 19:15:20 -0600</pubDate>
-      
-      <guid>https://merevehicles.com/posts/richard-clark/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;[&amp;hellip;] media are mere vehicles that deliver instruction but do not influence student achievement any more than the truck that delivers our groceries causes changes in our nutrition&amp;rdquo;” (Clark 83: 445) or more subtly that “ there is strong evidence that many very different media attributes accomplish the same learning goal” and therefore: “ It there is no single media attribute that serves a unique cognitive effect for some learning task, then the attributes must be proxies for some other variables that are instrumental in learning gains” (Clark 1994:22).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Clark does negate media effects in a simple way but links the debate to cost-effectiveness: “ Of course it is important for instructional designers to know that there are a variety of treatments that will produce a desired learning goal. However, the utility of this knowledge is largely economic. The designer can and must choose the less expensive and most cognitively efficient way to represent and deliver instruction. It cannot be argued that any given medium or attribute must be present in order for learning to occur, only that certain media and attributes are more efficient for certain learners, learning goals and task.” (Clark 1994:22).&lt;/p&gt;
-
-&lt;p&gt;Clark insists on the replicability test: and “ Whenever you have found a medium or set of media attributes which you believe will cause learning for some learners on a given task, ask yourself if another (similar) set of attributes would lead to the same learning result” and conversely “ If you suspect that there may be an alternative set or mix of media that would give similar results, ask yourself what is causing these similar results. ” (Clark 1994:28).&lt;/p&gt;
-
-&lt;p&gt;Media attributes (symbol systems) only available in some media can only be sufficient conditions for learning, i.e. they provide “ operational vehicles for methods that reflect the cognitive processes necessary to successfully perform a given task”.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

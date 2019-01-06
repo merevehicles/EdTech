@@ -3,31 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://merevehicles.com/posts/richard-clark/</loc>
-    <lastmod>2018-12-22T19:15:20-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://merevehicles.com/tags/debate/</loc>
-    <lastmod>2018-12-22T19:15:20-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://merevehicles.com/tags/media-debate/</loc>
-    <lastmod>2018-12-22T19:15:20-06:00</lastmod>
+    <loc>https://merevehicles.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://merevehicles.com/</loc>
-    <lastmod>2018-12-22T19:15:20-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://merevehicles.com/posts/</loc>
-    <lastmod>2018-12-22T19:15:20-06:00</lastmod>
+    <loc>https://merevehicles.com/moods/</loc>
     <priority>0</priority>
   </url>
   
@@ -43,7 +29,6 @@
   
   <url>
     <loc>https://merevehicles.com/tags/</loc>
-    <lastmod>2018-12-22T19:15:20-06:00</lastmod>
     <priority>0</priority>
   </url>
   
