@@ -6,8 +6,9 @@
     <description>Recent content on Mere Vehicles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; Mere Vehicles 2019</copyright>
     
-        <atom:link href="https://merevehicles.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://merevehicles.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
